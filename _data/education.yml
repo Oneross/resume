@@ -1,6 +1,17 @@
 # Degree
-- degree: Associates Degree, Business Management
-  uni: Springfield College
-  year: 1984 &mdash; 1986
-  awards: Quickest to fall asleep
+- degree: Computer Science
+  uni: Stanford University
+  year: 2012 &mdash; Present
+  # awards: Presidential Scholarship, others
+  summary: Mining Massive Datasets
+  # TODO: Add details
+
+
+# Degree
+- degree: Mathematics & Computer Science
+  uni: Middle Tennessee State University
+  year: 1994 &mdash; 1999
+  awards: Presidential Scholarship, others
+  # TODO: Find names of all awards
   summary: If you had any meaningful roles at college, feel free to write about them here
+  # TODO: Add details
