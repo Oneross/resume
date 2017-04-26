@@ -3,7 +3,7 @@
   uni: Stanford University
   year: 2012 &mdash; Present
   # awards: Presidential Scholarship, others
-  summary: Mining Massive Datasets
+  summary: <p>Mining Massive Datasets</p>
   # TODO: Add details
 
 
@@ -11,7 +11,7 @@
 - degree: Mathematics & Computer Science
   uni: Middle Tennessee State University
   year: 1994 &mdash; 1999
-  awards: Presidential Scholarship, others
+  awards: <p>Presidential Scholarship, others</p>
   # TODO: Find names of all awards
-  summary: If you had any meaningful roles at college, feel free to write about them here
+  summary: <p>If you had any meaningful roles at college, feel free to write about them here</p>
   # TODO: Add details
