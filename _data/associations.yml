@@ -1,11 +1,11 @@
 # Associations
 - organization: Association for Computing Machinery
-  role: Member
+  role: Student and Professional Member
   year: 1995 &mdash; Present
-  summary: SIGIR, SIGAI, SIGKDD, SIGMOD
+  summary: Affiliations - SIGIR, [SIGAI](http://www.acm.org/sigai), SIGKDD, SIGMOD
 
 
-# - organization: Springfield Nuclear Workers Labor Union
-#   role: Member in Good Standin
-#   year: 1994 &mdash; Present
-#   summary: Founding member of the local nuclear workers labor union.
+- organization: Springfield Nuclear Workers Labor Union
+  role: Member in Good Standin
+  year: 1994 &mdash; Present
+  summary: Founding member of the local nuclear workers labor union.
